@@ -1,0 +1,2 @@
+# simplepipelinejob
+testing groovy script
